@@ -9,6 +9,7 @@
   - private switch will allow machines to communicate internaly 
 
 # Switch1 - lab-switch-lan
-- this will be the private
+- private switch 
 
 # switch2 - lab-switch-wan 
+- public switch 
