@@ -10,7 +10,7 @@
 
 # Switch1 - lab-switch-lan
 - private switch 
-![image](https://github.com/user-attachments/assets/dd70bdb3-e3a3-4b20-ad0e-dc56b1fd8649)
+- ![image](https://github.com/user-attachments/assets/dd70bdb3-e3a3-4b20-ad0e-dc56b1fd8649)
 
 
 # Switch2 - lab-switch-wan 
