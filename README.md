@@ -7,3 +7,8 @@
 - 2 switch
   - public sqitch allowing internet access
   - private switch will allow machines to communicate internaly 
+
+# Switch1 - lab-switch-lan
+- this will be the private
+
+# switch2 - lab-switch-wan 
